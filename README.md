@@ -26,10 +26,14 @@ Este repositório contempla a **Sprint 1**, com a estrutura inicial da landing p
 
 ## 📂 Estrutura do Projeto
 hanami-project/
-├── index.html
-└── assets/
-└── css/
-└── style.css
+│── index.html
+│── README.md
+│── assets/
+│   └── css/
+│       └── style.css
+│── docs/
+│   └── README.md
+
 
 ---
 
@@ -42,4 +46,4 @@ hanami-project/
 ---
 
 ## 👩‍💻 Autora
-Projeto desenvolvido por **Geriane**.
+Projeto desenvolvido por **Geriane Marília**.
